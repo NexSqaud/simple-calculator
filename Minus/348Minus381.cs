@@ -1,0 +1,11 @@
+using Calculator;
+
+namespace Calculator.Minus
+{
+    class Action348Minus381 : MinusAction
+    {
+    
+        public override int Process() => 348 - 381;
+    
+    }
+}

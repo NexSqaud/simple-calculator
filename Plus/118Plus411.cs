@@ -1,0 +1,11 @@
+using Calculator;
+
+namespace Calculator.Plus
+{
+    class Action118Plus411 : PlusAction
+    {
+    
+        public override int Process() => 118 + 411;
+    
+    }
+}

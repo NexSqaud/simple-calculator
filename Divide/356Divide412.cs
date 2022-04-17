@@ -1,0 +1,11 @@
+using Calculator;
+
+namespace Calculator.Divide
+{
+    class Action356Divide412 : DivideAction
+    {
+    
+        public override int Process() => 356 / 412;
+    
+    }
+}

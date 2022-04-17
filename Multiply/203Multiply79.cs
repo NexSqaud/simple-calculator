@@ -1,0 +1,11 @@
+using Calculator;
+
+namespace Calculator.Multiply
+{
+    class Action203Multiply79 : MultiplyAction
+    {
+    
+        public override int Process() => 203 * 79;
+    
+    }
+}

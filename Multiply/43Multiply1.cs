@@ -1,0 +1,11 @@
+using Calculator;
+
+namespace Calculator.Multiply
+{
+    class Action43Multiply1 : MultiplyAction
+    {
+    
+        public override int Process() => 43 * 1;
+    
+    }
+}
