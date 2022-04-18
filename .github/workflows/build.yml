@@ -5,7 +5,7 @@ on: [push]
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: macos-latest # MacOS runner have a 14GB RAM
 
     steps:
       - uses: actions/checkout@v3
